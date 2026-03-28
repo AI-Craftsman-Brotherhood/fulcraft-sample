@@ -1,0 +1,32 @@
+{
+  "scopes" : {
+    "project" : {
+      "day" : {
+        "2026-03-28" : {
+          "request_count" : 120,
+          "token_count" : 326175
+        }
+      },
+      "month" : {
+        "2026-03" : {
+          "request_count" : 120,
+          "token_count" : 326175
+        }
+      }
+    },
+    "user" : {
+      "day" : {
+        "2026-03-28" : {
+          "request_count" : 120,
+          "token_count" : 326175
+        }
+      },
+      "month" : {
+        "2026-03" : {
+          "request_count" : 120,
+          "token_count" : 326175
+        }
+      }
+    }
+  }
+}
